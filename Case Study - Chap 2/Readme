@@ -1,1 +1,7 @@
-
+My First Databricks Project. 
+- Learning Objectives:
+    - 1. Configure the Databricks Community Edition. Enable DBFS. 
+      2. Create folder structures. Follow Medallion Architecture. 
+      3. Upload Raw data at the Bronze Layer. Added the Incremental loading principle. Archive the file. 
+      4. Clean and process the data at the Silver layer
+      5. Create the analytical data model for the reporting layer. 
